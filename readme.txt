@@ -1,5 +1,5 @@
 === MY PLUGIN  ===
-Contributors: JRETECG
+Contributors: JRETECH
 Tags: 
 Requires at least: 5.1
 Tested up to: 6.0
